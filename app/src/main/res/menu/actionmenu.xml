@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/delete"
+        android:title="@string/delete"
+        android:icon="@drawable/ic_delete_forever_black_24dp"
+        android:visible="true"
+        android:enabled="true"/>
+
+    <item android:id="@+id/chooseBoxStyle"
+        android:title="@string/chooseBoxStyle"
+        android:icon="@drawable/ic_box_black_24dp"
+        android:visible="true"
+        android:enabled="true"/>
+
+    <item android:id="@+id/chooseEmoji"
+        android:title="@string/chooseEmoji"
+        android:icon="@drawable/ic_insert_emoticon_black_24dp"
+        android:visible="true"
+        android:enabled="true"/>
+
+</menu>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Masque</string>
+    <string name="load">Load</string>
+    <string name="share">Share</string>
+    <string name="delete">Delete</string>
+    <string name="chooseBoxStyle">Choose Box Style</string>
+    <string name="chooseEmoji">Choose Emoji</string>
+</resources>

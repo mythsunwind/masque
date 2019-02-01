@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/loadAction"
+        android:title="@string/load"
+        app:showAsAction="always"/>
+
+    <item android:id="@+id/shareAction"
+        android:title="@string/share"
+        android:icon="@drawable/ic_arrow_forward_black_24dp"
+        app:showAsAction="always"/>
+
+</menu>
